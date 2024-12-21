@@ -4,5 +4,5 @@ Se busca replicar una calculadora cientifica fisica, es decir, que el input por 
 El proyecto es publico y toda sugerencia pronto sera leida para su posible implementación
 
 ## Codigo Fuente
-Todo el codigo fuente es codigo abierto, es decir, de uso para quien guste usarlo y revisarlo.
+Todo el codigo fuente es codigo abierto, **es decir**, de uso para quien guste usarlo y revisarlo.
 
