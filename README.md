@@ -1,4 +1,4 @@
-# Proyecto sobre una calculadora
+# > calculadora-CMD
 ## En que consiste?
 Se busca replicar una calculadora cientifica fisica, es decir, que el input por medio de la consola del propio Windows a travez del teclado.
 El proyecto es publico y toda sugerencia pronto sera leida para su posible implementación.
@@ -20,13 +20,13 @@ Con ayuda de este proyecto se busca lograr los siguientes objetivos:
     El _lenguaje de programación principal_ usado en este proyecto, es **C++**, con capacidades de **_Programación Orientada a Objetos (POO)_**, entre otras cosas increibles de este hermoso lenguaje. Al tener una sintaxis directa y organizada, cualquier persona con conocimientos basicos de programación puede llegar a entender cualquier situación presentada dentro del proyecto.
 
 
-## Codigo Fuente
-Todo el codigo fuente es codigo abierto, **_es decir_**, de uso para quien guste usarlo y revisarlo.
-
 
 # Documentación del codigo
 Aquí se guardara toda la información necesaria para poder entender este propio codigo con ayuda pseudocodigo y ejemplos practicos
 Cada que se actualize una función, su propia documentación sera actualizada.
 
+
+## Codigo Fuente
+Todo el codigo fuente es codigo abierto, **_es decir_**, de uso para quien guste usarlo y revisarlo.
 
 ### Ultima actualización: 21 de Diciembre del 2024
