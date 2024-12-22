@@ -3,12 +3,12 @@ Aquí es donde se documentara cada parte del codigo con su respectiva función. 
 
 Para poder contener esa tan preciada **_documentación_** tan ordenada, se dividira en cada parte distinta su debido archivo usado en este proyecto.
 
-[!NOTE]
-Hay que mantener la organización en este proyecto. Todo error es causado por el autor, osea yo, supongo
+> [!NOTE]
+> Hay que mantener la organización en este proyecto. Todo error es causado por el autor, osea yo, supongo
 
 
 # _main.cpp_
-Este archivo es la cabeza de todo el proyecto, donde todo se ejecutara a su paso correspondiente. Aquí no se declaran funciones nuevas a usar, si no, aquí es donde se van a usar, **solo** las más importantes para su funcionamiento optimo del proyecto. Para acceder a su documentación acceda [aquí](), pero para acceder al archivo desde el repositorio, acceda desde [aquí]().
+Este archivo es la cabeza de todo el proyecto, donde todo se ejecutara a su paso correspondiente. Aquí no se declaran funciones nuevas a usar, si no, aquí es donde se van a usar, **solo** las más importantes para su funcionamiento optimo del proyecto. Para acceder a su documentación acceda [aquí](https://github.com/Sak1510/calculadora-CMD/blob/main/doc/mainD.md), pero para acceder al archivo desde el repositorio, acceda desde [aquí](https://github.com/Sak1510/calculadora-CMD/blob/main/main.cpp).
 
 # *func_math.cpp*
 Aquí se declaran todas las 

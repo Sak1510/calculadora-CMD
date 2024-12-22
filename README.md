@@ -27,7 +27,7 @@ Cada que se actualize una función, su propia documentación sera actualizada.
 ## Codigo Fuente
 Todo el codigo fuente es codigo abierto, **_es decir_**, de uso para quien guste usarlo y revisarlo. Si se va a usar cualquier parte del codigo de este proyecto, minimo dejar creditos del autor original, Sak, para su debido uso. Quien lo use sin dejar creditos, se lo va a llevar mamá coco en la noche jalandole las patas olientas a hongo por tremendas calcetas que usamos.
 
-Toda la información necesaria para todo archivo se encuentra [aquí]().
+Toda la información necesaria para todo archivo se encuentra [aquí](https://github.com/Sak1510/calculadora-CMD/blob/main/doc/intro.md).
 
 
 ### Ultima actualización: 21 de Diciembre del 2024
